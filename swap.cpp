@@ -11,6 +11,6 @@ int main(){
     temp=a;
     a=b;
     b=temp;
-    cout<<"the number after swapping"  <<a <<b <<endl;
+    cout<<"the number after swapping is:"  <<a <<b <<endl;
     
 }
